@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rss [
+	<!ENTITY % HTMLlat1 PUBLIC
+  	"-//W3C//ENTITIES Latin 1 for XHTML//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml-lat1.ent">
+	%HTMLlat1;
+
+	<!ENTITY % HTMLspecial PUBLIC
+  	"-//W3C//ENTITIES Special for XHTML//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml-special.ent">
+	%HTMLspecial;
+	
+	<!ENTITY % HTMLsymbol PUBLIC
+  	"-//W3C//ENTITIES Symbols for XHTML//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml-symbol.ent">
+	%HTMLsymbol;
+]>
+
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+	<title>Горизонты промышленной политики</title>
+	<description>вебсайт экспертного совета по промышленной политике</description>
+	<language>ru</language>
+	<link>http://prompolit.ru</link> 
+	<copyright>Copyright 2020 Горизонты промышленной политики</copyright>
+	
+		<managingEditor>ailev@asmp.msk.su</managingEditor>
+	
+		<managingEditor>havana-club@yandex.ru</managingEditor>
+	
+		<managingEditor>novikov_vadim@mail.ru</managingEditor>
+	
+		<managingEditor>crow@ice.ru</managingEditor>
+	
+		<managingEditor>samadhi@mailgate.ru</managingEditor>
+	
+		<managingEditor>vic5784@gmail.com</managingEditor>
+	
+	
+	<pubDate/>
+	<lastBuildDate/>
+	
+	
+		<item>  
+			<title>Файл "Доклад &quot;Государственные корпорации в современной России&quot;."</title>
+			<link>http://prompolit.ru/890</link>
+			
+				<description>Подготовлен Экспертным Советом при комитете Совета Федерации РФ по промышленной политике в 2007г. (проект в окончательной редакции). Правовой статус &laquo;государственной корпорации&raquo;(ГК). Государственные корпорации и административная реформа. Различные схемы управления государственной собственностью: примеры из истории и зарубежной практики. Особенности структуры стимулов для менеджмента государственных корпораций. Выводы для политики в отношении государственных корпораций.</description>
+			
+			
+			
+			<pubDate/>
+			<guid>890</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Р. Крэндалл К. Уинстон Повышает ли антимонопольная политика благосостояние потребителя? Оценка данных"</title>
+			<link>http://prompolit.ru/564995</link>
+			
+				<description>Авторам статьи не удалось найти достаточно веских фактических доказательств того, что в прошлом вмешательства государства приводили к непосредственной и ощутимой потребительской выгоде или ощутимо сдерживали антиконкурентное поведение. Поэтому антимонопольным органам предлагается ограничиться пресечением только наиболее очевидных и грубых антиконкурентных нарушений.</description>
+			
+			
+			
+			<pubDate/>
+			<guid>564995</guid>
+		</item>
+	
+		<item>  
+			<title>Текст "Свобода по-новому"</title>
+			<link>http://prompolit.ru/564285</link>
+			
+				<description>Обычно считается, что опасно давать естественным монополиям самим определять тарифы. Но на самом деле это опасно позволять и регуляторам. (Статья опубликована в журнале SmartMoney 18.05.09)</description>
+			
+			
+				<author>novikov_vadim@mail.ru</author>
+			
+			
+			<pubDate/>
+			<guid>564285</guid>
+		</item>
+	
+		<item>  
+			<title>Текст "Общие проблемы регулирования &quot;естественных&quot; монополий"</title>
+			<link>http://prompolit.ru/560431</link>
+			
+				<description>Новиков В. Жаворонков С. Общие проблемы регулирования &quot;естественных&quot; монополий \\ Экономика переходного периода. Очерки экономической политики посткоммунистической России. Экономический рост 2000-2007. - М.: Издательство &quot;Дело&quot; АНХ, 2008, стр. 843-846</description>
+			
+			
+				<author>novikov_vadim@mail.ru</author>
+			
+			
+			<pubDate/>
+			<guid>560431</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "В. Радаев Что требуют розничные сети от своих поставщиков: эмпирический анализ"</title>
+			<link>http://prompolit.ru/560292</link>
+			
+				<description>(Экономическая политика, N 2, 2009)</description>
+			
+			
+			
+			<pubDate/>
+			<guid>560292</guid>
+		</item>
+	
+		<item>  
+			<title>Текст "Защита от конкуренции"</title>
+			<link>http://prompolit.ru/560288</link>
+			
+				<description>Если признать, что объектом деловой конкуренции является прибыль, а ее сутью - использование различных деловых практик для ее получения, то в деятельности ФАС можно усмотреть некоторую иронию. Придерживаясь запретительного подхода, ведомство, призванное конкуренцию защищать, на деле очень боится ее, не доверяет ей, не верит в нее. (Заметка впервые опубликована по адресу: http://liberty.ru/Themes/Vtoroj-antimonopol-nyj-paket-pravitel-stva.-Ekonomisty-volnuyutsya)</description>
+			
+			
+				<author>novikov_vadim@mail.ru</author>
+			
+			
+			<pubDate/>
+			<guid>560288</guid>
+		</item>
+	
+		<item>  
+			<title>Текст "Антимонопольная ошибка"</title>
+			<link>http://prompolit.ru/560282</link>
+			
+				<description>Российское правительство зря надеется, что прямое регулирование цен поможет борьбе с инфляцией. Это лишь повторение прошлых неудач. (Новиков В. Антимонопольная ошибка \\ SmartMoney, 10 (148) 23 марта 2009)</description>
+			
+			
+				<author>novikov_vadim@mail.ru</author>
+			
+			
+			<pubDate/>
+			<guid>560282</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "С. Авдашева А. Шаститко Запрет на установление монопольно высокой цены: экономические основания, варианты и новации антимонопольного законодательства"</title>
+			<link>http://prompolit.ru/560279</link>
+			
+				<description>Авторы не принадлежат к сторонникам применения нормы о монопольно высокой цене, тем более в российской институциональной среде. Однако даже в случае неоднозначных норм, их формулировка может приводить к большим или меньшим проблемам применения, сопровождаться большими или меньшими потерями благосостояния. Ответить на вопрос, в каком случае возможные ошибки в результате применения нормы о монопольно высокой цене будут меньше &ndash; конечная цель подготовки данной статьи.  (Экономическая политика, N 2, 2009)</description>
+			
+			
+			
+			<pubDate/>
+			<guid>560279</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Майкл Спраул. Антимонопольная практика и цены."</title>
+			<link>http://prompolit.ru/560276</link>
+			
+				<description>По расчетам автора, в абсолютном большинстве случаев антимонопольные иски не приводят к снижению цен. В целом, осуждение по статье &quot;фиксирование цены&quot; приводит даже к некоторому повышению цены. Даже в наиболее успешных случаях, цены снижаются не более, чем на 10%.</description>
+			
+			
+			
+			<pubDate/>
+			<guid>560276</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Заключение РСПП на проект поправок в ФЗ &quot;О защите конкуренции&quot;"</title>
+			<link>http://prompolit.ru/560265</link>
+			
+				<description>Замечания к законопроекту, одобренному Государственной думой 20.02.2009 г. Переданы А.Н. Шохиным в Комитет ГД по экономической политике. Опубликованы в журнале &quot;Экономическая политика&quot; (N 2 за 2009 г).</description>
+			
+			
+			
+			<pubDate/>
+			<guid>560265</guid>
+		</item>
+	  
+</channel>
+</rss>
+
+
+
